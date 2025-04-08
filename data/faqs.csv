@@ -1,0 +1,163 @@
+pregunta,categoria
+"No consigo que mi portátil se conecte a la red Wi-Fi","Conexión-Dispositivo"
+"Mi móvil dice que la red está fuera de alcance","Conexión-Dispositivo"
+"¿Por qué mi Smart TV no se conecta al Wi-Fi?","Conexión-Dispositivo"
+"El dispositivo no detecta la red inalámbrica","Conexión-Dispositivo"
+"Mi tablet se desconecta constantemente del Wi-Fi","Conexión-Dispositivo"
+"No puedo conectar mi impresora al router","Conexión-Dispositivo"
+"El Wi-Fi funciona en otros equipos pero no en mi móvil","Conexión-Dispositivo"
+"La red aparece pero no puedo conectarme desde mi consola","Conexión-Dispositivo"
+"Mi laptop se conecta pero no tiene acceso a Internet","Conexión-Dispositivo"
+"Los dispositivos nuevos no logran conectarse a la red","Conexión-Dispositivo"
+"¿Qué hacer si la señal Wi-Fi no se restablece después de reiniciar el router?",Conexión-Dispositivo
+"¿Por qué sigue sin funcionar mi red después de reiniciar el router?",Conexión-Dispositivo
+"¿Cómo puedo verificar que el router esté funcionando correctamente?",Conexión-Dispositivo
+"¿Cómo hacer que el internet vuelva a funcionar después de reiniciar el router?",Conexión-Dispositivo
+"¿Por qué mi conexión sigue inestable después de reiniciar el router?",Conexión-Dispositivo
+"¿Qué debo hacer si el cableado del router no parece funcionar?",Conexión-Dispositivo
+"¿Cómo puedo solucionar problemas de Wi-Fi después de apagar y encender el router?",Conexión-Dispositivo
+"¿Qué hacer si el router no da señal después de reiniciarlo?",Conexión-Dispositivo
+"¿Cómo sé si hay cortes en mi zona?",Conexión-Internet
+"¿Qué debo hacer si mi internet no funciona?",Conexión-Internet
+"¿Hay algún corte general de internet en mi área?",Conexión-Internet
+"¿Cómo verificar si hay problemas de conexión en mi zona?",Conexión-Internet
+"¿El internet no está funcionando, cómo lo soluciono?",Conexión-Internet
+"¿Mi conexión a internet está caída, cómo saberlo?",Conexión-Internet
+"¿Qué hacer si mi internet no responde?",Conexión-Internet
+"¿Qué puedo hacer si la luz del router no se enciende?",Conexión-Internet
+"¿Mi internet sigue sin funcionar, qué hago?",Conexión-Internet
+"¿Cómo comprobar si el corte de internet es general?",Conexión-Internet
+"¿Hay algún problema en la zona con el servicio de internet?",Conexión-Internet
+"¿Qué hacer si la luz de internet no se enciende en mi router?",Conexión-Internet
+"¿Cómo saber si hay una interrupción de internet en mi zona?",Conexión-Internet
+"¿Cómo soluciono un corte de internet en mi área?",Conexión-Internet
+"¿Mi internet sigue sin funcionar después de reiniciar el router?",Conexión-Internet
+"¿Cómo puedo verificar si mi conexión de internet tiene cortes?",Conexión-Internet
+"¿El internet no está funcionando, qué puedo hacer?",Conexión-Internet
+"¿Qué pasos seguir si el router no tiene conexión a internet?",Conexión-Internet
+"¿Cómo reviso la configuración de mi correo?",Correo-Configuración
+"¿Qué hacer si tengo problemas con la configuración de mi correo?",Correo-Configuración
+"¿Cómo puedo ver la configuración actual de mi cuenta de correo?",Correo-Configuración
+"¿Dónde encuentro la configuración de mi correo en mi perfil?",Correo-Configuración
+"¿Cómo reviso la configuración de mi cuenta de correo en el portal?",Correo-Configuración
+"¿Qué debo hacer si hay un error en la configuración de mi correo?",Correo-Configuración
+"¿Puedo ver la configuración de mi correo en mi perfil?",Correo-Configuración
+"¿Cómo ajustar la configuración de mi correo si tengo problemas?",Correo-Configuración
+"¿Cómo ver y cambiar la configuración de mi correo desde el perfil?",Correo-Configuración
+"¿Qué pasos debo seguir para revisar la configuración del correo?",Correo-Configuración
+"¿Cómo solucionar problemas de configuración en mi correo?",Correo-Configuración
+"¿Dónde puedo ver la configuración actual de mi cuenta de correo?",Correo-Configuración
+"¿Cómo accedo a la configuración de mi correo desde el perfil?",Correo-Configuración
+"¿Qué hago si mi correo no está configurado correctamente?",Correo-Configuración
+"¿Cómo revisar la configuración de mi cuenta de correo?",Correo-Configuración
+"¿Qué debo hacer si el correo no funciona correctamente debido a la configuración?",Correo-Configuración
+"¿Cómo puedo verificar la configuración de mi correo?",Correo-Configuración
+"¿Dónde puedo ajustar la configuración de mi cuenta de correo?",Correo-Configuración
+"¿Cómo sé si mi servidor de correo está bien configurado?",Correo-Problemas
+"¿Qué hago si no puedo enviar correos desde mi cuenta?",Correo-Problemas
+"¿Cómo verificar si el servidor de correo está activo?",Correo-Problemas
+"¿Por qué no puedo recibir correos en mi cuenta?",Correo-Problemas
+"¿Qué hacer si el servidor de correo no responde?",Correo-Problemas
+"¿Cómo solucionar problemas con el servidor de correo?",Correo-Problemas
+"¿Qué pasos debo seguir si mi servidor de correo no está funcionando?",Correo-Problemas
+"¿Cómo configuro el servidor de correo en mi aplicación?",Correo-Problemas
+"¿Qué hacer si el servidor de correo no se conecta?",Correo-Problemas
+"¿Cómo verificar que mi conexión de internet esté activa para el correo?",Correo-Problemas
+"¿Por qué mi servidor de correo no está funcionando correctamente?",Correo-Problemas
+"¿Cómo soluciono problemas de conexión con el servidor de correo?",Correo-Problemas
+"¿Cómo restablezco mi cuenta de correo si el servidor no funciona?",Correo-Problemas
+"¿Cómo verificar que mi configuración de correo sea correcta?",Correo-Problemas
+"¿Por qué no puedo enviar correos desde mi cuenta de email?",Correo-Problemas
+"¿Cómo corregir problemas con la configuración del servidor de correo?",Correo-Problemas
+"¿Qué debo hacer si mi conexión a internet está activa pero no puedo recibir correos?",Correo-Problemas
+"¿Cómo restablezco mi configuración de correo si el servidor no está activo?",Correo-Problemas
+"¿Cómo cambio el nombre de mi red",Configuración-Red
+"¿Cómo accedo a la configuración del router?",Configuración-Red
+"¿Qué pasos debo seguir para cambiar la clave de mi red?",Configuración-Red
+"¿Dónde puedo cambiar el nombre de mi red?",Configuración-Red
+"¿Cómo configuro mi router para cambiar la clave de red?",Configuración-Red
+"¿Qué debo hacer para acceder a la configuración de mi red?",Configuración-Red
+"¿Cómo modifico la configuración de mi red inalámbrica?",Configuración-Red
+"¿Dónde entro para cambiar el nombre y la clave de mi red?",Configuración-Red
+"¿Cómo accedo al panel de configuración de mi router?",Configuración-Red
+"¿Qué debo hacer para cambiar la clave de mi red inalámbrica?",Configuración-Red
+"¿Cómo cambio la clave de acceso?",Configuración-Red
+"¿Puedo cambiar el nombre de mi red desde el router?",Configuración-Red
+"¿Cómo hacer que mi red tenga una nueva clave?",Configuración-Red
+"¿Dónde se configuran el nombre y la contraseña del router?",Configuración-Red
+"¿Qué hago para cambiar el nombre de mi red desde el router?",Configuración-Red
+"¿Cómo accedo a la configuración de red en mi router?",Configuración-Red
+"¿Qué pasos seguir para cambiar los ajustes de mi red?",Configuración-Red
+"¿Dónde configuro mi red para cambiar el nombre y la clave?",Configuración-Red
+"¿Cómo restablezco mi usuario en el portal de clientes?",Credenciales-Portal
+"¿Qué hago si olvido mi contraseña del portal?",Credenciales-Portal
+"¿Cómo cambiar la pregunta de seguridad en el portal?",Credenciales-Portal
+"¿Dónde puedo restablecer mis credenciales de acceso?",Credenciales-Portal
+"¿Cómo puedo recuperar mi cuenta en el portal?",Credenciales-Portal
+"¿Puedo cambiar mi usuario y contraseña desde el portal?",Credenciales-Portal
+"¿Qué hago si olvido mi pregunta de seguridad?",Credenciales-Portal
+"¿Dónde puedo cambiar mi contraseña en el portal de clientes?",Credenciales-Portal
+"¿Cómo restablecer mi contraseña y usuario?",Credenciales-Portal
+"¿Cómo restablezco mi acceso al portal?",Credenciales-Portal
+"¿Qué pasos debo seguir para cambiar mi usuario en el portal?",Credenciales-Portal
+"¿Cómo puedo recuperar mi contraseña desde el portal?",Credenciales-Portal
+"¿Dónde puedo modificar la pregunta de seguridad?",Credenciales-Portal
+"¿Qué hacer si mi cuenta en el portal está bloqueada?",Credenciales-Portal
+"¿Cómo restablezco mis credenciales de acceso al portal?",Credenciales-Portal
+"¿Puedo cambiar mi contraseña en el portal de clientes?",Credenciales-Portal
+"¿Cómo restablecer mi pregunta de seguridad en el portal?",Credenciales-Portal
+"¿Cómo puedo cambiar mi información de acceso en el portal?",Credenciales-Portal
+"¿Cómo consulto mis facturas en el portal de clientes?",Facturación-Consultas
+"¿Qué hago para revisar el historial de pagos?",Facturación-Consultas
+"¿Dónde puedo ver mis facturas y pagos anteriores?",Facturación-Consultas
+"¿Cómo cambio mi plan desde el portal?",Facturación-Consultas
+"¿Qué debo hacer para consultar mi factura en línea?",Facturación-Consultas
+"¿Cómo veo las opciones para cambiar mi plan de facturación?",Facturación-Consultas
+"¿Cómo acceder a mis facturas desde el portal?",Facturación-Consultas
+"¿Dónde puedo ver los detalles de mis pagos anteriores?",Facturación-Consultas
+"¿Puedo consultar mi factura desde la página web del portal?",Facturación-Consultas
+"¿Cómo reviso los pagos realizados y las facturas en el portal?",Facturación-Consultas
+"¿Qué pasos debo seguir para consultar mi historial de facturación?",Facturación-Consultas
+"¿Puedo cambiar mi plan a través del portal de clientes?",Facturación-Consultas
+"¿Cómo puedo ver mis facturas y la información de mi plan?",Facturación-Consultas
+"¿Dónde accedo a las opciones de cambio de plan en el portal?",Facturación-Consultas
+"¿Cómo reviso mis facturas y pagos de forma rápida en el portal?",Facturación-Consultas
+"¿Qué opciones tengo para cambiar de plan desde el portal de clientes?",Facturación-Consultas
+"¿Cómo acceder a mi historial de pagos?",Facturación-Consultas
+"¿Puedo consultar mi factura y historial de pagos desde mi cuenta?",Facturación-Consultas
+"¿Cómo presento un reclamo por un error en mi factura?",Facturación-Reclamos
+"¿Qué debo hacer si mi factura tiene un error?",Facturación-Reclamos
+"¿Cómo puedo reclamar un error en mi factura desde el portal?",Facturación-Reclamos
+"¿Dónde presento un reclamo por una factura equivocada?",Facturación-Reclamos
+"¿Cómo reclamo un error en mi factura de servicios?",Facturación-Reclamos
+"¿Puedo hacer un reclamo por una factura errónea llamando a atención al cliente?",Facturación-Reclamos
+"¿Qué pasos debo seguir para presentar un reclamo de factura?",Facturación-Reclamos
+"¿Dónde puedo reportar un error en mi factura?",Facturación-Reclamos
+"¿Cómo puedo corregir un error en mi factura de servicios?",Facturación-Reclamos
+"¿Qué hacer si mi factura tiene cargos incorrectos?",Facturación-Reclamos
+"¿Cómo hago un reclamo si veo cargos incorrectos en mi factura?",Facturación-Reclamos
+"¿Puedo presentar un reclamo por una factura errónea desde el portal?",Facturación-Reclamos
+"¿Qué hacer si veo que mi factura tiene un cobro indebido?",Facturación-Reclamos
+"¿Cómo hago para corregir un problema con mi factura?",Facturación-Reclamos
+"¿Dónde puedo reclamar si mi factura es incorrecta?",Facturación-Reclamos
+"¿Puedo resolver un error de facturación llamando a atención al cliente?",Facturación-Reclamos
+"¿Cómo reclamo por un error en la facturación de mi plan?",Facturación-Reclamos
+"¿Qué debo hacer si mi factura está equivocada?",Facturación-Reclamos
+"Hola",Desconocido
+"Buen día",Desconocido
+"¿Qué tal?",Desconocido
+"asdasda",Desconocido
+"Buenos días",Desconocido
+"¡Hola!",Desconocido
+"¿Cómo va todo?",Desconocido
+"¡Qué tal!",Desconocido
+"Buenas tardes",Desconocido
+"123123412432",Desconocido
+"Hola, ¿qué tal todo?",Desconocido
+"¿Cómo estás?",Desconocido
+"¡Hola, qué tal!",Desconocido
+"Hola, ¿cómo andas?",Desconocido
+"¿Qué pasa?",Desconocido
+"¡Hola, cómo va todo!",Desconocido
+"Estoy aburrido",Desconocido
+"1231242343ZXCZCVXQA",Desconocido

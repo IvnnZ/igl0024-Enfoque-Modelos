@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+pandas
+spacy
+unidecode
+scikit-learn
+joblib
+es_core_news_sm
+datasets
+transformers
+torch
+sentencepiece

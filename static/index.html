@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <title>Chat FAQ</title>
+    <link rel="stylesheet" href="./static/styles.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+
+<body> 
+    <div class="contenedor-principal">
+        <h1 class="titulo">Servicios Tecnológicos S.L</h1>
+        <hr class="linea-horizontal"></hr>
+
+        <!-- Botones -->
+        <div class="btn-group-responsive">
+            <button class="btn btn-secondary flex-fill">Botón 1</button>
+            <button class="btn btn-secondary flex-fill">Botón 2</button>
+            <button class="btn btn-secondary flex-fill">Botón 3</button>
+        </div>
+
+        <hr class="linea-horizontal"></hr>
+        <!-- Contenido principal -->
+        <div class="row content-section">
+            <div class="col-md-8">
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sodales at purus sed vulputate. In ac velit finibus, consequat elit eu, pulvinar tellus. Praesent ornare condimentum odio, sit amet semper felis interdum et. Curabitur eu euismod augue. Vivamus consequat ornare tellus, nec blandit libero sollicitudin quis. Pellentesque ut consequat elit. Nunc luctus libero enim, eu dapibus diam maximus id. Nam vitae quam mi. Integer in suscipit lectus. Praesent quis lectus scelerisque, scelerisque mi ac, convallis tortor. Pellentesque nec ligula leo. Integer tincidunt tellus non tincidunt dapibus. Donec leo metus, elementum ut tempus sed, dignissim vitae justo. Vivamus tincidunt facilisis tincidunt.</p>
+                <p>Pellentesque commodo nunc sit amet enim rhoncus porta. Duis metus dui, efficitur id lacinia eu, ultricies eu sapien. Aenean sit amet enim turpis. Proin nec lectus fermentum, interdum dui non, fringilla tellus. Sed sollicitudin nibh in auctor accumsan. In vestibulum mi quis mi interdum placerat. Sed varius vestibulum ullamcorper. Vivamus pellentesque blandit ligula pharetra commodo. Sed eget diam dictum nulla vehicula ultrices. Duis sed faucibus neque. Aliquam a turpis enim. Nam vestibulum placerat vestibulum. Aenean consectetur, risus eu pellentesque interdum, erat purus efficitur felis, et tristique nibh felis sed justo. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris accumsan iaculis erat vitae accumsan.</p>
+                <p>Curabitur ex neque, eleifend facilisis semper porta, sodales at lorem. Sed tristique enim augue. Vestibulum scelerisque lacus diam, a rhoncus dolor maximus sit amet. Nam turpis nisi, porttitor id vestibulum id, porttitor eget nisi. Proin a ante ante. Curabitur vulputate tortor vitae nunc cursus mollis in sit amet velit. Aliquam consequat libero quam, varius posuere nulla consequat eu. Sed sed purus nec sem hendrerit imperdiet in vel purus. Praesent id neque eget tortor dignissim efficitur consequat vel tellus. Vestibulum sit amet tincidunt nisi. Fusce varius nec magna a consectetur. Maecenas orci ex, egestas sed mollis quis, bibendum et risus. Nullam facilisis bibendum ipsum, eget auctor risus iaculis id. Quisque sodales dignissim ex, vel vestibulum justo blandit vel. Sed vitae velit nec dui faucibus tempus.</p>
+                <p>Cras eget posuere metus. Suspendisse ac suscipit dui. Pellentesque imperdiet elit in volutpat tempus. Pellentesque lectus quam, semper id lorem vitae, sodales hendrerit urna. Cras ultricies sapien quis lacus sagittis euismod. Cras hendrerit dui finibus luctus porta. Donec non vulputate odio.</p>
+                <p>In maximus lectus eu aliquet dapibus. Suspendisse at nisl finibus, finibus neque vel, accumsan purus. Praesent sed venenatis metus, interdum ultrices tortor. Praesent maximus porta nulla, sed pretium neque molestie id. Mauris lobortis cursus justo, vitae convallis magna varius id. Aliquam erat volutpat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam quis odio felis. Maecenas id risus cursus sem lacinia eleifend quis at mi.</p>
+            </div>
+            <div class="col-md-4">
+                <ul class="list-group">
+                    <li class="list-group-item">Lorem ipsum dolor sit</li>
+                    <li class="list-group-item">Consectetur adipiscing elit</li>
+                    <li class="list-group-item">Vestibulum luctus</li>
+                    <li class="list-group-item">Curabitur id pulvinar</li>
+                    <li class="list-group-item">Suspendisse sed ex</li>
+                </ul>
+            </div>
+        </div>  
+        
+
+        <!-- Botón de chat sticky -->
+        <button class="btn btn-primary sticky-chat-btn" onclick="toggleChat()">Soporte Técnico</button>
+
+
+        <div class="chat-container" id="chatContainer">
+            <div class="card-body chat-body" id="chatBox">
+                <div class="mensaje bot">
+                    <strong>Asistente:</strong> ¡Hola! ¿En qué puedo ayudarte?
+                </div>
+                <div id="respuestaBot"><!-- Mensajes se insertan dinámicamente aquí --></div>
+                
+            </div>
+            <div class="card-footer">
+                <div class="input-group">
+                    <input type="text" id="preguntaInput" class="form-control mt-2" placeholder="Escribe tu mensaje..." onkeydown="onKeyDownHandler(event);">
+                    <button class="btn" onclick="enviarPregunta()" id="btnEnviar">Enviar</button>
+                    <button class="btn" onclick="clearChatBox()">X</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="./static/app.js"></script>
+</body>
+
+</html>

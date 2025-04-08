@@ -1,0 +1,10 @@
+categoria,respuesta
+Conexión-Dispositivo,"Apaga el router, espera 30 segundos y vuelve a encenderlo. Si persiste, contacta con un técnico."
+Conexión-Internet,"Verifica si hay cortes generales en la zona, reinicia el router y comprueba sus luces."
+Configuración-Red,"Puedes acceder a la configuración del router (192.168.1.1) para revisar que no haya ningún problema."
+Credenciales-Portal,"Desde el portal del cliente puedes restablecer tu usuario, contraseña y revisar la seguridad."
+Correo-Problemas,"Verifica que el servidor de correo esté bien configurado y que tu cuenta esté activa."
+Facturación-Consultas,"Entrando en el portal del cliente, puedes revisar tus facturas, historial de pagos y opciones de cambio de plan."
+Facturación-Reclamos,"Si tu factura tiene un error, puedes presentar un reclamo desde el portal del cliente o llamando a facturación."
+Correo-Configuración,"En caso de problemas con el correo, puedes mirar la configuración actual desde el perfil-"
+Desconocido,"No se ha podido procesar una respuesta, prueba con otra pregunta-"
